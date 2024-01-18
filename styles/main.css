@@ -24,7 +24,7 @@
     padding-left: 30px;
 }
 
-.Membership {
+.committies__Membership {
     display: inline-block;
     padding: 3px 10px 3px 8px;
     background-color:#1D4E70;
@@ -32,7 +32,7 @@
     border-radius: 13px;
 }
 
-.enacted_legislation {
+.legislation__enacted {
     display: inline-block;
     padding: 3px 10px 3px 8px;
     background-color:#1D4E70;
@@ -40,6 +40,10 @@
     border-radius: 13px;
 }
 
-.following_committies {
+.committies__following {
+    font-weight: lighter;
+}
+
+.legislation__description {
     font-weight: lighter;
 }
