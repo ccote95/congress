@@ -1,0 +1,45 @@
+
+
+.pageHeader {
+    font-weight: bold;
+    font-size: x-large ;
+    text-align: center;
+}
+
+.basic_info {
+    text-align: center;
+}
+
+.profile_pic {
+    border-radius: 25%;
+}
+
+.committies {
+    padding-left: 30px;
+    
+
+}
+
+.legislation {
+    padding-left: 30px;
+}
+
+.Membership {
+    display: inline-block;
+    padding: 3px 10px 3px 8px;
+    background-color:#1D4E70;
+    color:white;
+    border-radius: 13px;
+}
+
+.enacted_legislation {
+    display: inline-block;
+    padding: 3px 10px 3px 8px;
+    background-color:#1D4E70;
+    color:white;
+    border-radius: 13px;
+}
+
+.following_committies {
+    font-weight: lighter;
+}
